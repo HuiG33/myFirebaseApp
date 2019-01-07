@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hei Maailma</string>
+    <string name="bye">Hyvästi Kesä</string>
+    <string name="button">Klikkaa</string>
+</resources>

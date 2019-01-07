@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab1+2</string>
+    <string name="hello">Hello World</string>
+    <string name="bye">Goodbye Summer</string>
+    <string name="number">0</string>
+    <string name="button">Change Text</string>
+    <string name="increment_button">Increment button</string>
+</resources>
